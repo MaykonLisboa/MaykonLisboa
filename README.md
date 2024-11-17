@@ -9,8 +9,7 @@ Tecnologias que utilizo:
   <img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" height="40" width="40" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=MaykonLisboa&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin: 0;">
 </div>
-
-
+<br>
 Redes Sociais:
 
 [![Ícone do LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maykon-lisboa-927483279/)
